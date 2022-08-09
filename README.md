@@ -1,4 +1,2 @@
 # Enotion 
-'''bash
-  pip install
-'''
+
