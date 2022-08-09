@@ -24,3 +24,6 @@ pip install transformers
   ```bash
 pip install nltk
   ```
+  ```bash
+pip install pandas
+  ```
